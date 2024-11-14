@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Glasses of Water</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Track your water intake!</h1>
+    <div id="goalContainer">
+        <h2>Your Goal:</h2>
+        <label for="goalInput">Number of glasses:</label>
+        <div id="submitContainer">
+            <input id="goalInput" type="number" value="1" min="1">
+            <button id="submitBtn">Submit</button>
+        </div>
+    </div>
+    <div id="trackerContainer">
+        <div id="glassesDisplay"></div>
+        <button id="addGlassBtn">Add a Glass</button>
+        <br>
+        <button id="resetBtn">Reset</button>
+        <br>
+        <progress id="progressBar"></progress>
+        <p id="progressText"></p>
+    </div>
+    <script src="index.js"></script>
+</body>
+</html>
