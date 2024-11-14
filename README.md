@@ -20,10 +20,10 @@ https://dlekht.github.io/water-tracker/
 - Start a new day by clicking "Reset".
 
 ## Technologies Used
-HTML5: Markup for the structure of the app.
-CSS3: Styling and layout.
-JavaScript: Logic of the App.
-Local Storage: For saving user data across sessions.
+- HTML5: Markup for the structure of the app.
+- CSS3: Styling and layout.
+- JavaScript: Logic of the App.
+- Local Storage: For saving user data across sessions.
 
 ## Screenshots
 
