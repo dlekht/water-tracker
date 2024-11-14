@@ -1,2 +1,22 @@
-# water-tracker
-This is a simple web application for tracking your water intake. The user can set a goal of how many glasses of water he wants to drink, add the glasses, and see the progress. The data is stored in local storage, so the information doesn't disappear after refreshing the page.
+# Overview
+
+This is a simple web application to help with tracking your daily water intake. Set a goal for the number of glasses of water you want to drink and see your progress. The data is stored in Local Storage, so the information doesn't disappear after refreshing the page.
+
+## Features
+
+- Set a goal for the number of glasses.
+- Add glasses as you drink water.
+- View your progress with a progress bar.
+- Save your progress using Local Storage.
+
+## Usage
+- Enter your goal in the input field and click "Submit."
+- Add glasses of water as you drink by clicking "Add a Glass."
+- Check your progress on the progress bar and stay hydrated with periodic reminders.
+- Start a new day by clicking "Reset".
+
+## Technologies Used
+HTML5: Markup for the structure of the app.
+CSS3: Styling and layout.
+JavaScript: Logic of the App.
+Local Storage: For saving user data across sessions.
