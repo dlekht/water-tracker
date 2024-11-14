@@ -2,6 +2,10 @@
 
 This is a simple web application to help with tracking your daily water intake. Set a goal for the number of glasses of water you want to drink and see your progress. The data is stored in Local Storage, so the information doesn't disappear after refreshing the page.
 
+## Demo
+
+https://dlekht.github.io/water-tracker/
+
 ## Features
 
 - Set a goal for the number of glasses.
@@ -23,5 +27,5 @@ Local Storage: For saving user data across sessions.
 
 ## Screenshots
 
-![image](https://github.com/user-attachments/assets/ca0a078f-29b9-43b2-b78b-af6fa99694ab) ![image](https://github.com/user-attachments/assets/962ece6f-0eaa-45f2-a40f-4b59c0cc5be2)
+![image](https://github.com/user-attachments/assets/962ece6f-0eaa-45f2-a40f-4b59c0cc5be2)
 
